@@ -1,4 +1,4 @@
-# ModelDataProtection
+# Model Data Protection
 This project uses RP to protect training data of ML model.
 - **ModelTraining.ipynb** file is used to train and test an ML model by DAC data.
 - **ModelTrainingRP.ipynb** file is used to train and test an ML model by random projected (DAC) data. Both training and test data projected by same random matrix.
